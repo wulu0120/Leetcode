@@ -1,0 +1,1 @@
+![20](https://github.com/wulu0120/Leetcode/blob/master/image/20.JPG)
