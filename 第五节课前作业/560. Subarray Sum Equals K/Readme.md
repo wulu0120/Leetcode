@@ -1,0 +1,1 @@
+![560](https://github.com/wulu0120/Leetcode/blob/master/image/560.JPG)
